@@ -2,6 +2,10 @@
 
 Welcome to my profile. I am a Junior Developer from London. I have recently been studying for a Diploma in Full Stack Software Development with the [Code Institute](https://codeinstitute.net/) and have now finished my fifth and final Portfolio Project for the course. I am looking forward to using my new skils and learning many new ones in a Developer role.
 
+## Contact Me
+
+[![LinkedIn](images/linkedin.svg)](https://www.linkedin.com/in/stephanie-ashdown)
+
 ## 🎓 Code Institute Portfolio Projects
 
 ### Project 1 - Suburban Walking
