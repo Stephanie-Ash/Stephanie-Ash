@@ -37,9 +37,9 @@ A front end site that calculates the location of a VSP source as either offset a
 [Repository](https://github.com/Stephanie-Ash/vsp-source-locator)<br>
 [Live Site](https://stephanie-ash.github.io/vsp-source-locator/)
 
-### Project 3 - The Sourcerer's Castle
+### Project 3 - The Sorcerer's Castle
 
-<img width="50%" alt="The Sourcerer's Castle site" src="images/sourcerers-castle.jpg"/>
+<img width="50%" alt="The Sourcerer's Castle site" src="images/sorcerers-castle.jpg"/>
 
 A text based story game run in the command line.
 
