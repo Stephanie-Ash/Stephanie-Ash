@@ -102,7 +102,7 @@ An educational site about recycling complete with recycling game.
 
 ### INKLUSION
 
-A virtual tour through the history of LGBTQIA+ art. Won first place in the Code Institute June Hackathon.
+A virtual tour through the history of LGBTQIA+ art. Won first place in the Code Institute June 2022 Hackathon.
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=plastic)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=plastic)
