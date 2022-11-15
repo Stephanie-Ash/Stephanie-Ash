@@ -48,7 +48,7 @@ A text based story game run in the command line.
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=plastic)
 
 [Repository](https://github.com/Stephanie-Ash/sorcerers-castle)<br>
-[Live Site](https://sorcerers-castle.herokuapp.com/)
+[Live Site](https://sorcerers-castle.onrender.com)
 
 ### Project 4 - The Pizza Oven
 
