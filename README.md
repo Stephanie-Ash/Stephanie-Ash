@@ -83,7 +83,7 @@ A full stack ecommerce site for a Jewellery store.
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=plastic)
 
 [Repository](https://github.com/Stephanie-Ash/jewellery-art)<br>
-[Live Site](https://jewellery-art.herokuapp.com/)
+[Live Site](https://jewellery-art.onrender.com)
 
 ## 👊 Hackathon Projects
 
