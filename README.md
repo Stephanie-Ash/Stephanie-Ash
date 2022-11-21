@@ -65,7 +65,7 @@ A full stack site for a pizza restaurant complete with table booking system.
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=plastic)
 
 [Repository](https://github.com/Stephanie-Ash/the-pizza-oven)<br>
-[Live Site](https://the-pizza-oven.herokuapp.com/)
+[Live Site](https://the-pizza-oven.onrender.com)
 
 ### Project 5 - Jewellery Art
 
